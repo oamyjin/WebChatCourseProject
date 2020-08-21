@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Users\Lenovo\Desktop\AMY\study\专业课程\网络课程设计\WebChat\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1894832245.index
+3137715513.index
+4144575830.index
+3744094047.index
+313069062.index
+2592592829.index
+1236089236.index
